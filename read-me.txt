@@ -1,0 +1,5 @@
+user: sabira@mail.com
+pass: 111111
+
+admin:admin@mail.com
+pass: 123123
